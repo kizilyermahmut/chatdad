@@ -1,0 +1,10 @@
+express generator kuruldu 
+express ve nodemon kuruldu 
+bower install edildi
+bower init yapıldı
+angular kuruldu 
+ejs dosya sekilleri oluşturuldu 
+angular için javascripts dosyası altında index controller da scope tanımlaması yapıldı
+main js de const app=angular.module('') tanımlaması yapıldı
+index ejs ye indexcontroller  ng-app ile tanımlandı ayrıca script olarak indexcontroller 
+dosya yolu verildi 

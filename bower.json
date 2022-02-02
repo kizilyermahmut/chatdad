@@ -1,0 +1,10 @@
+{
+  "name": "chatdad",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/kizilyermahmut/chatdad",
+  "dependencies": {
+    "angular": "^1.8.2"
+  }
+}
